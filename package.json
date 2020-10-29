@@ -1,6 +1,6 @@
 {
   "name": "express-serve-static-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "only here to make types work",
   "main": "index.js",
   "scripts": {
